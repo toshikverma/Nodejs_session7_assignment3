@@ -1,0 +1,13 @@
+We Use node js when we require
+1)Sockets only servers like chat apps, irc apps, etc.
+2)Social networks which put emphasis on realtime resources like geolocation, video stream, audio stream, etc.
+3)Handling small chunks of data really fast like an analytics webapp.
+4)As exposing a REST only api.
+company which uses node js are
+1)Netflix
+2)PayPal
+3)LinkedIn
+4)Uber
+5)Ebay
+6)NASA
+7)Walmart
